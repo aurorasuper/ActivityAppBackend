@@ -1,0 +1,8 @@
+﻿x	|TO DO: POST a log
+x	|TO DO: GET List of logs 
+x	|TO DO: GET  a log
+x	|TO DO: Put Log
+x	|TO DO: Delete Log
+x	|TO DO : Sql transaction som kollar om en aktivitet existerar, annars skapa ny aktivitet 
+x	|TO DO: Inloggning med Jwt Token	
+
