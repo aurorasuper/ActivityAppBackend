@@ -3,11 +3,11 @@ My first API project and my first go at React JS created as a lab in the course 
 
 It is a habit tracking app where users can create logs of activities that they do. 
 
-##Technologies
-###Database
+#Technologies
+Database
 MSSQL.
 
-###Backend system
+Backend system
 ASP.NET Core 6 MVC
 Entity framework
 JWT Authentication tokens
@@ -15,7 +15,7 @@ Salt encryption of user passwords
 REST API
 SWAGGER/THUNDERCLIENT
 
-###Frontend
+Frontend
 React.js
 Tailwind CSS
 Figma for UI design
